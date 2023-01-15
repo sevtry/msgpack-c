@@ -12,11 +12,6 @@ except that it's faster and smaller. Small integers are encoded into a
 single byte and short strings require only one extra byte in
 addition to the strings themselves.
 
-### C Library
-
-See [c_master](https://github.com/msgpack/msgpack-c/tree/c_master)
-
-### C++ Library
 
 See [cpp_master](https://github.com/msgpack/msgpack-c/tree/cpp_master)
 
